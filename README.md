@@ -1,4 +1,4 @@
-# Hypr-Daze
+# HyprDaze
 Hyprland Dotfiles 
 
 This rice attemps to combine the best of all features, eyecandy and looks from modern pre-existing dotfiles like caelestia, end4, omarchy and HyDE. This rice is heavily inspired by them so check them out! 
